@@ -1,7 +1,7 @@
 ## doce-receita
 Exemplo não funcional de interface web usando HTML, CSS e JavaScript.
 
-As bibliotecas usadas foram [Bootstrap](https://getbootstrap.com "Bootstrap"), jQuery,  e o framework @Pingendo.
+As bibliotecas usadas foram [Bootstrap](https://getbootstrap.com "Bootstrap"), jQuery,  e o framework [Pingendo](https://pingendo.com "Pingendo").
 
 A escolha de layout foi uma opção moderna e com ênfase em acessos por dispositivos mobile. Tendo a opção de se registrar usando a conta de redes sociais populares, permitindo uma "coleção particular" de suas receitas favoritas.
 
