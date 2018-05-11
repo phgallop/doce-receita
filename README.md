@@ -1,4 +1,4 @@
-## doce-receita
+## template-site-culinaria
 Exemplo não funcional de interface web usando HTML e CSS.
 
 As bibliotecas usadas foram [Bootstrap](https://getbootstrap.com "Bootstrap"), Font-Awesome e o framework [Pingendo](https://pingendo.com "Pingendo").
